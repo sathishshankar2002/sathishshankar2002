@@ -7,6 +7,10 @@
 
 ##  How I will help?
 
+<h5> As a Developer, you can ask me related to code and DSA</h5>
+<h5> Use my repo as a reference to get additional information</h5>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
  
