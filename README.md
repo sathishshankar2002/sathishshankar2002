@@ -9,8 +9,20 @@
 
 <h5> As a Developer, you can ask me related to code and DSA</h5>
 <h5> Use my repo as a reference to get additional information</h5>
+<h5> Still confused? 💬 me on svsathish2002@gmail.com</h5>
+
+## SOCIAL MEDIA HANDLES:
+
+yet to update
 
 
+
+
+
+## TECH STACK:
+
+
+yet to update
 
  
 
